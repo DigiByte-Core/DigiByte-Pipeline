@@ -45,7 +45,7 @@ Ongoing projects to dramatically improve Developer Engagement and Experience
 
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
-| [0012](items/0012.md) | Self Contained DigiByte Testnet CLI (testnet container running a full node, CLI interface for interacting with the node) | gto90 | No | Not yet |
+| [0012](items/0012.md) | Self Contained DigiByte Testnet CLI (testnet container running a full node, CLI interface for interacting with the node) | gto90 | No | Yes |
 | [0013](items/0013.md) | JavaScript SDK | gto90 | TBD | Not yet |
 | [0014](items/0014.md) | Kotlin SDK | gto90 | TBD | Not yet |
 | [0015](items/0015.md) | Swift SDK | gto90 | TBD | Not yet |
