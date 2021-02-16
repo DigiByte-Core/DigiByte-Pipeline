@@ -36,7 +36,7 @@ More longer-term projects for people with prior experience or further time on th
 | [0001](items/0001.md) | Merge Schnorr sigs | ChillingSilence | Potentially | Yes |
 | [0004](items/0004.md) | Pull BTC Core 0.19 | ChillingSilence | No | Yes |
 | [0005](items/0005.md) | Implement ProgPoW | ChillingSilence | Yes | Yes |
-| [0006](items/0006.md) | Implement RandomX | ChillingSilence | Potentially | No |
+| [0006](items/0006.md) | Implement RandomX | ChillingSilence | Yes | Yes |
 | [0008](items/0008.md) | Lightning network integration | ChillingSilence | Potentially | No |
 | [0032](items/0032.md) | Rosetta integration | ChillingSilence | Potentially | Yes |
 | x | x | x | x | x |
