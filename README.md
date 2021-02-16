@@ -25,7 +25,6 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 | [0029](items/0029.md) | Store mobile "memo" in OP_RETURN | ChillingSilence | No | No |
 | [0030](items/0030.md) | Scan QR code for DigiAsset distribution | ChillingSilence | No | No |
 | [0031](items/0031.md) | Make mobile more newbie-friendly | ChillingSilence | No | No |
-| [0033](items/0033.md) | Add DGB support to BTCPay server | saltedlolly | No | No |
 | x | x | x | x | x |
 
 ## Larger action items
@@ -63,4 +62,14 @@ Ongoing projects to dramatically improve Developer Engagement and Experience
 | [0024](items/0024.md) | Developer Getting Started Swift Sample Projects | gto90 | TBD | Not yet |
 | [0025](items/0025.md) | Developer Resources Site | gto90 | TBD | Not yet |
 | [0026](items/0026.md) | Developer Projects Showcase | gto90 | TBD | Not yet |
+| x | x | x | x | x |
+
+
+## Third-party Project Integration items
+
+Third-party projects where it would be nice to see DigiByte support added.
+
+| Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
+| --- | --- | --- | --- | --- |
+| [0033](items/0033.md) | Add DGB support to BTCPay server | saltedlolly | No | No |
 | x | x | x | x | x |
