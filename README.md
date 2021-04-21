@@ -16,8 +16,6 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 | --- | --- | --- | --- | --- |
 | [0002](items/0002.md) | DigiAssets search in DigiExplorer | ChillingSilence | No | No |
 | [0003](items/0003.md) | Burn Assets on Android | ChillingSilence | No | No |
-| [0007](items/0007.md) | Dividends for DigiAssets | ChillingSilence | Yes | Yes |
-| [0009](items/0009.md) | Document Notarization website | ChillingSilence | Yes | No |
 | [0010](items/0010.md) | Update Core Wallet UI | ChillingSilence | No | No |
 | [0011](items/0011.md) | Videos for the website | Murat | Potentially | Yes |
 | [0027](items/0027.md) | Mobile app DigiAsset management | ChillingSilence | No | No |
@@ -34,7 +32,7 @@ More longer-term projects for people with prior experience or further time on th
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
 | [0001](items/0001.md) | Merge Schnorr sigs | ChillingSilence | Potentially | Yes |
-| [0004](items/0004.md) | Pull BTC Core 0.21 | ChillingSilence | No | Yes |
+| [0004](items/0004.md) | Rebase off latest BTC Core | ChillingSilence | No | Yes |
 | [0005](items/0005.md) | Implement ProgPoW | ChillingSilence | Yes | Yes |
 | [0006](items/0006.md) | Implement RandomX | ChillingSilence | Yes | Yes |
 | [0008](items/0008.md) | Lightning network integration | ChillingSilence | Potentially | No |
@@ -64,7 +62,6 @@ Ongoing projects to dramatically improve Developer Engagement and Experience
 | [0026](items/0026.md) | Developer Projects Showcase | gto90 | TBD | Not yet |
 | x | x | x | x | x |
 
-
 ## Third-party Project Integration items
 
 Third-party projects where it would be nice to see DigiByte support added.
@@ -73,3 +70,13 @@ Third-party projects where it would be nice to see DigiByte support added.
 | --- | --- | --- | --- | --- |
 | [0033](items/0033.md) | Add DGB support to BTCPay server | saltedlolly | No | No |
 | x | x | x | x | x |
+
+
+## Completed items
+
+Kept for historical purposes
+
+| Item ID | Summary | Submitted by | Bounty available? | Completed? |
+| --- | --- | --- | --- | --- |
+| [0007](items/0007.md) | Dividends for DigiAssets | ChillingSilence | Yes | Yes |
+| [0009](items/0009.md) | Document Notarization website | ChillingSilence | Yes | Yes |
