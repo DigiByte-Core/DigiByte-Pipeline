@@ -62,6 +62,16 @@ Ongoing projects to dramatically improve Developer Engagement and Experience
 | [0026](items/0026.md) | Developer Projects Showcase | gto90 | TBD | Not yet |
 | x | x | x | x | x |
 
+## Third-party Project Integration items
+
+Third-party projects where it would be nice to see DigiByte support added.
+
+| Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
+| --- | --- | --- | --- | --- |
+| [0033](items/0033.md) | Add DGB support to BTCPay server | saltedlolly | No | No |
+| x | x | x | x | x |
+
+
 ## Completed items
 
 Kept for historical purposes
