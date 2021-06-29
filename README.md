@@ -1,5 +1,7 @@
 # DigiByte Pipeline
 
+[![Join the chat at https://gitter.im/DigiByte-Core/DigiSuite](https://badges.gitter.im/DigiByte-Core/DigiSuite.svg)](https://gitter.im/DigiByte-Core/DigiSuite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A list of items that we want to do for DigiByte, some with / without bounties etc attached, and others simply as a great way to cut your teeth on DigiByte
 
 As a completely permissionless blockchain that was a fairly launched, non-ICO project, without a 100% pre-mine or a war-chest of funds, DigiByte is a permissionless project without any single centrally controlling body. As such there is no "whitepaper" with a "roadmap" as many ICO-based projects have that many cryptocurrency investors unfortunately expect. However, in terms of forward-thinking, there are many things that separate individuals / groups / entities across the blockchain space are interested in implementing to push the DigiByte project forward. This is what you will find here in lieu of any whitepaper
