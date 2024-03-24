@@ -25,6 +25,7 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 | [0029](items/0029.md) | Store mobile "memo" in OP_RETURN | ChillingSilence | No | No |
 | [0030](items/0030.md) | Scan QR code for DigiAsset distribution | ChillingSilence | No | No |
 | [0031](items/0031.md) | Make mobile more newbie-friendly | ChillingSilence | No | No |
+| [0034](items/0034.md) | New DigiByte related videos for the website | DGBNOOB | Potentially | No |
 | x | x | x | x | x |
 
 ## Larger action items
