@@ -1,0 +1,20 @@
+# Refine Integration Guide   
+
+### Submitted by
+@DGBNOOB
+
+### Bounty details
+Potentially
+
+### Is this being worked on?
+Yes
+
+### Specifics
+The Integration Guide v2.0 was updated June 2023. The integration guide should be kept in a repository within the DigiByte-Core organization with other docoments and guides. This allows for refinements to the guide. One area that might need to be refined is the link to RPC calls Bitcoin Core 0.17.0 release notes and other minor adjustments.  
+
+### Work progress
+Yes 
+
+| Date | Milestone |
+| --- | --- |
+| 3/26/2024 | Submitted for inclusion | 
