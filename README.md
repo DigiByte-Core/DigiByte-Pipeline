@@ -17,14 +17,8 @@ These are great for cutting your teeth on and getting introduced to DigiByte
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
 | [0002](items/0002.md) | DigiAssets search in DigiExplorer | ChillingSilence | No | No |
-| [0003](items/0003.md) | Burn Assets on Android | ChillingSilence | No | No |
 | [0010](items/0010.md) | Update Core Wallet UI | ChillingSilence | No | No |
-| [0011](items/0011.md) | Videos for the website | Murat | Potentially | Yes |
-| [0027](items/0027.md) | Mobile app DigiAsset management | ChillingSilence | No | No |
-| [0028](items/0028.md) | DigiAsset showcasing on mobile | ChillingSilence | No | No |
-| [0029](items/0029.md) | Store mobile "memo" in OP_RETURN | ChillingSilence | No | No |
 | [0030](items/0030.md) | Scan QR code for DigiAsset distribution | ChillingSilence | No | No |
-| [0031](items/0031.md) | Make mobile more newbie-friendly | ChillingSilence | No | No |
 | [0034](items/0034.md) | New DigiByte related videos for the website | DGBNOOB | Potentially | No |
 | x | x | x | x | x |
 
@@ -83,3 +77,16 @@ Kept for historical purposes
 | --- | --- | --- | --- | --- |
 | [0007](items/0007.md) | Dividends for DigiAssets | ChillingSilence | Yes | Yes |
 | [0009](items/0009.md) | Document Notarization website | ChillingSilence | Yes | Yes |
+| [0011](items/0011.md) | Videos for the website | Murat | Potentially | Yes |
+
+
+## Deprciated items
+
+Kept for historical purposes
+
+| Item ID | Summary | Submitted by | Bounty available? | Completed? |
+| [0003](items/0003.md) | Burn Assets on Android | ChillingSilence | No | No |
+| [0027](items/0027.md) | Mobile app DigiAsset management | ChillingSilence | No | No |
+| [0028](items/0028.md) | DigiAsset showcasing on mobile | ChillingSilence | No | No |
+| [0029](items/0029.md) | Store mobile "memo" in OP_RETURN | ChillingSilence | No | No |
+| [0031](items/0031.md) | Make mobile more newbie-friendly | ChillingSilence | No | No |
