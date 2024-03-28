@@ -38,6 +38,7 @@ More longer-term projects for people with prior experience or further time on th
 | [0006](items/0006.md) | Implement RandomX | ChillingSilence | Yes | Yes |
 | [0008](items/0008.md) | Lightning network integration | ChillingSilence | Potentially | No |
 | [0032](items/0032.md) | Rosetta integration | ChillingSilence | Potentially | Yes |
+| [0040](items/0040.md) | DigiAsset Core development | DGBNOOB | No | Yes |
 | x | x | x | x | x |
 
 ## Developer experience items
@@ -70,6 +71,8 @@ Third-party projects where it would be nice to see DigiByte support added.
 | Item ID | Summary | Submitted by | Bounty available? | Being worked on? |
 | --- | --- | --- | --- | --- |
 | [0033](items/0033.md) | Add DGB support to BTCPay server | saltedlolly | No | No |
+| [0039](items/0039.md) | DigiByte DeskTop Light Wallet development | DGBNOOB | No | Yes |
+| [0041](items/0041.md) | Securus Wallet development | DGBNOOB | No | Yes |
 | x | x | x | x | x |
 
 
