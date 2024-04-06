@@ -73,7 +73,6 @@ Third-party projects where it would be nice to see DigiByte support added.
 | [0033](items/0033.md) | Add DGB support to BTCPay server | saltedlolly | No | No |
 | [0039](items/0039.md) | DigiByte DeskTop Light Wallet development | DGBNOOB | No | Yes |
 | [0041](items/0041.md) | Securus Wallet development | DGBNOOB | No | Yes |
-| [0042](items/0042.md) | DGB Commerce | DGBNOOB | No | Yes |
 | x | x | x | x | x |
 
 
@@ -86,6 +85,7 @@ Kept for historical purposes
 | [0007](items/0007.md) | Dividends for DigiAssets | ChillingSilence | Yes | Yes |
 | [0009](items/0009.md) | Document Notarization website | ChillingSilence | Yes | Yes |
 | [0011](items/0011.md) | Videos for the website | Murat | Potentially | Yes |
+| [0042](items/0042.md) | DGB Commerce | DGBNOOB | No | Yes |
 | x | x | x | x | x |
 
 
